@@ -1,16 +1,17 @@
-### Hi there 👋
+    ::::    ::: :::::::::: :::    ::: :::::::::: 
+    :+:+:   :+: :+:        :+:    :+: :+:        
+    :+:+:+  +:+ +:+        +:+    +:+ +:+        
+    +#+ +:+ +#+ +#++:++#   +#+    +:+ +#++:++#   
+    +#+  +#+#+# +#+        +#+    +#+ +#+        
+    #+#   #+#+# #+#        #+#    #+# #+#        
+    ###    #### ##########  ########  ########## 
 
-<!--
-**neue/neue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Design ✕ Technology
 
-Here are some ideas to get you started:
+- 🌍 http://neuemodern.com
+- 📓 https://www.are.na/james-hicks
+- 🐦 http://twitter.com/neuemodern
+- 📷 http://instagram.com/neue
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Big Data No Thanks!](https://neuemodern.com/public/big_data_small.png)
